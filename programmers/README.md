@@ -1,5 +1,5 @@
-Prgrammers coding test
-=======================
+Prgrammers problems
+=====================
 
 ## Table of contents
 

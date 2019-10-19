@@ -1,4 +1,4 @@
-Solutions of programming test problems
+Solutions of programming problems
 =======================================
 
 ## Table of contents
