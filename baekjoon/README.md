@@ -10,6 +10,7 @@ These codes are solutions of programming problems in baekjoon.
     * Simulation
 
         * [주사위 굴리기](samsung_sw_test/simulation/14499_rolling_a_dice.ipynb)
+        * [톱니바퀴](samsung_sw_test/simulation/14891_gear.ipynb)
 
     * Brute force
 
