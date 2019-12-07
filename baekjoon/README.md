@@ -5,6 +5,11 @@ These codes are solutions of programming problems in baekjoon.
 
 ## Table of contents
 
+* Stack
+
+	* [스택](stack/10828_stack.ipynb)
+	* [괄호](stack/9012_parenthesis.ipynb)
+
 * Samsung SW Test
 
     * Simulation
