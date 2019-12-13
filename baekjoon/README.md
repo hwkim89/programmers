@@ -12,6 +12,15 @@ These codes are solutions of programming problems in baekjoon.
 		* [스택](stack/10828_stack.ipynb)
 		* [괄호](stack/9012_parenthesis.ipynb)
 
+    * Queue
+
+        * [큐](queue/10845_queue.ipynb)
+        * [프린터 큐](queue/1966_printer_queue.ipynb)
+
+    * Deque
+
+        * [덱](deque/10866_deque.ipynb)
+
 * Samsung SW Test
 
     * Simulation
