@@ -3,6 +3,14 @@ Prgrammers problems
 
 ## Table of contents
 
+* Stack
+
+	* [올바른 괄호](stack/right_parenthesis.ipynb)
+	* [쇠막대기](stack/iron_pipe.ipynb)
+	* [짝지어 제거하기](stack/pair_removal.ipynb)
+	* [사전순 부분문자열](stack/alphabetical_part_string.ipynb)
+	* [대중소 괄호 짝 맞추기](stack/matching_parenthesis.ipynb)
+
 * Hash
 
     * [완주하지 못한 선수](hash/incomplete_player.ipynb)
