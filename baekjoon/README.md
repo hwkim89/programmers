@@ -40,3 +40,12 @@ These codes are solutions of programming problems in baekjoon.
 
     	* [시험 감독](samsung_sw_test/etc/13458_test_supervision.ipynb)
     	* [NxM 보드 완주하기](samsung_sw_test/etc/9944_completion_of_nxm_board.ipynb)
+
+* Math
+
+	* Math 1
+
+		* [손익분기점](math/1/1712_break-even_point.ipynb)
+		* [설탕배달](math/1/2839_sugar_delivery.ipynb)
+		* [벌집](math/1/2292_honey_comb.ipynb)
+		* [분수찾기](math/1/1193_fraction_search.ipynb)
