@@ -21,6 +21,27 @@ These codes are solutions of programming problems in baekjoon.
 
         * [덱](deque/10866_deque.ipynb)
 
+* Algorithm
+
+    * Recursive function
+
+        * [팩토리얼](recursive_function/10872_factorial.ipynb)
+        * [피보니차 수 5](recursive_function/10870_fibonacci_5.ipynb)
+
+    * Sort
+
+        * [수 정렬하기](sort/2750_sorting_numbers.ipynb)
+        * [소트 인사이드](sort/1427_sort_inside.ipynb)
+
+    * Brute force
+
+        * [분해합](brute_force/2231_sum_of_decomposition.ipynb)
+
+    * Dynamic programming
+
+        * [피보나치 수 2](dp/2748_fibonacci_2.ipynb)
+
+
 * Samsung SW Test
 
     * Simulation
@@ -49,3 +70,8 @@ These codes are solutions of programming problems in baekjoon.
 		* [설탕배달](math/1/2839_sugar_delivery.ipynb)
 		* [벌집](math/1/2292_honey_comb.ipynb)
 		* [분수찾기](math/1/1193_fraction_search.ipynb)
+
+    * Math 2
+
+        * [소수찾기](math/2/1978_prime_number_counting.ipynb)
+        * [소수](math/2/2581_prime_number.ipynb)
