@@ -32,6 +32,7 @@ These codes are solutions of programming problems in baekjoon.
 
         * [수 정렬하기](sort/2750_sorting_numbers.ipynb)
         * [소트 인사이드](sort/1427_sort_inside.ipynb)
+        * [단어 정렬](sort/1181_word_sorting.ipynb)
 
     * Brute force
 
@@ -75,3 +76,11 @@ These codes are solutions of programming problems in baekjoon.
 
         * [소수찾기](math/2/1978_prime_number_counting.ipynb)
         * [소수](math/2/2581_prime_number.ipynb)
+        * 소수구하기
+        * [베트르랑 공준](math/2/4948_bertrand's_postulate.ipynb)
+        * [골드바흐의 추측](math/2/9020_goldbach's_conjecture.ipynb)
+        * [직사각형에서 탈출](math/2/1085_escape_from_rectangular.ipynb)
+        * [직각삼각형](math/2/4153_right_triangle.ipynb)
+        * [네 번째 점](math/2/3009_forth_point.ipynb)
+        * 택시 기하학
+        * 터렛
