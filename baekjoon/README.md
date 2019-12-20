@@ -20,6 +20,7 @@ These codes are solutions of programming problems in baekjoon.
     * Deque
 
         * [덱](deque/10866_deque.ipynb)
+        * [회전하는 큐](deque/1021_turning_queue.ipynb)
 
 * Algorithm
 
@@ -71,6 +72,10 @@ These codes are solutions of programming problems in baekjoon.
 		* [설탕배달](math/1/2839_sugar_delivery.ipynb)
 		* [벌집](math/1/2292_honey_comb.ipynb)
 		* [분수찾기](math/1/1193_fraction_search.ipynb)
+		* [달팽이는 올라가고 싶다](math/1/2869_snail_hiking.ipynb)
+		* [ACM 호텔](math/1/10250_acm_hotel.ipynb)
+		* [부녀회장이 될테야](math/1/2775_becoming_a_woman_president.ipynb)
+		* [Fly me to the Alpha Centauri](math/1/1011_fly_me_to_the_alpha_centauri.ipynb)
 
     * Math 2
 
@@ -82,5 +87,5 @@ These codes are solutions of programming problems in baekjoon.
         * [직사각형에서 탈출](math/2/1085_escape_from_rectangular.ipynb)
         * [직각삼각형](math/2/4153_right_triangle.ipynb)
         * [네 번째 점](math/2/3009_forth_point.ipynb)
-        * 택시 기하학
+        * [택시 기하학](math/2/3053_taxicab_geometry.ipynb)
         * 터렛
