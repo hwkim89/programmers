@@ -22,6 +22,10 @@ These codes are solutions of programming problems in baekjoon.
         * [덱](deque/10866_deque.ipynb)
         * [회전하는 큐](deque/1021_turning_queue.ipynb)
 
+    * Heap
+
+        * [최소 힙](heap/1927_min_heap.ipynb)
+
 * Algorithm
 
     * Recursive function
