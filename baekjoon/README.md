@@ -25,6 +25,7 @@ These codes are solutions of programming problems in baekjoon.
     * Heap
 
         * [최소 힙](heap/1927_min_heap.ipynb)
+        * [보석 도둑](heap/1202_jewelry_theif.ipynb)
 
 * Algorithm
 
