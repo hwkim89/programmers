@@ -42,6 +42,7 @@ These codes are solutions of programming problems in baekjoon.
 
     * Brute force
 
+        * [블랙잭](brute_force/2798_black_jack.ipynb)
         * [분해합](brute_force/2231_sum_of_decomposition.ipynb)
 
     * Dynamic programming
