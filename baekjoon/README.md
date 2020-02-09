@@ -37,8 +37,11 @@ These codes are solutions of programming problems in baekjoon.
     * Sort
 
         * [수 정렬하기](sort/2750_sorting_numbers.ipynb)
+        * [수 정렬하기 2](sort/2751_sorting_numbers_2.ipynb)
+        * [수 정렬하기 3](sort/10989_sorting_numbers_3.ipynb)
         * [소트 인사이드](sort/1427_sort_inside.ipynb)
         * [단어 정렬](sort/1181_word_sorting.ipynb)
+        * [나이순 정렬](sort/10814_sorting_by_age.ipynb)
 
     * Brute force
 
@@ -48,6 +51,7 @@ These codes are solutions of programming problems in baekjoon.
     * Dynamic programming
 
         * [피보나치 수 2](dp/2748_fibonacci_2.ipynb)
+        * [동전 1](dp/2293_coin1.ipynb)
 
 
 * Samsung SW Test
