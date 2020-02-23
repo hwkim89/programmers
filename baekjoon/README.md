@@ -67,6 +67,7 @@ These codes are solutions of programming problems in baekjoon.
     * Brute force
 
         * [테트로미노](samsung_sw_test/brute_force/14500_tetromino.ipynb)
+        * [연산자 끼워넣기](samsung_sw_test/brute_force/14888_insertion_of_operators.ipynb)
 
     * Dynamic programming
 
