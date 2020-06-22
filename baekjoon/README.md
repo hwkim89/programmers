@@ -42,6 +42,7 @@ These codes are solutions of programming problems in baekjoon.
         * [소트 인사이드](sort/1427_sort_inside.ipynb)
         * [단어 정렬](sort/1181_word_sorting.ipynb)
         * [나이순 정렬](sort/10814_sorting_by_age.ipynb)
+        * [줄 세우기](sort/2252_line_up.ipynb)
 
     * Brute force
 
