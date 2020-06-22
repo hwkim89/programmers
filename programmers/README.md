@@ -1,7 +1,7 @@
 Prgrammers problems
 =====================
 
-## Data structure problemss
+## Data structure problems
 
 * Stack
 
@@ -18,6 +18,10 @@ Prgrammers problems
 * Hash
 
     * [완주하지 못한 선수](ds/hash/incomplete_player.ipynb)
+
+* Graph
+
+    * [가장 먼 노드](ds/graph/furthest_node.ipynb)
 
 ## Algorithm problems
 
