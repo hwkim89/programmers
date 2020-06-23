@@ -42,8 +42,17 @@ Prgrammers problems
 
 * Dynamic programming
 
-    * [N으로 표현](algo/dynamic_programming/n_representation.ipynb)
+    * [N으로 표현](algo/dp/n_representation.ipynb)
+    * [거스름돈](algo/dp/change.ipynb)
 
 * BFS/DFS
 
     * [여행 경로](algo/bfs_dfs/travel_route.ipynb)
+
+## Number problems
+
+* [다음 큰 숫자](number/next_bigger_number.ipynb)
+* [숫자의 표현](number/representation_of_number.ipynb)
+* [최댓값과 최솟값](number/max_and_min.ipynb)
+* [최솟값 만들기](number/make_min_num.ipynb)
+* [피보나치 수열](number/fibonacci_number.ipynb)
