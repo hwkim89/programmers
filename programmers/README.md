@@ -39,15 +39,18 @@ Prgrammers problems
 
     * [체육복](algo/greedy/gym_suit.ipynb)
     * [큰 수 만들기](algo/greedy/creating_big_number.ipynb)
+    * [단속 카메라](algo/greedy/speed_camera.ipynb)
 
 * Dynamic programming
 
     * [N으로 표현](algo/dp/n_representation.ipynb)
     * [거스름돈](algo/dp/change.ipynb)
+    * [등굣길](algo/dp/way_to_school.ipynb)
 
 * BFS/DFS
 
     * [여행 경로](algo/bfs_dfs/travel_route.ipynb)
+    * [단어 변환](algo/bfs_dfs/word_change.ipynb)
 
 ## Number problems
 
@@ -56,3 +59,21 @@ Prgrammers problems
 * [최댓값과 최솟값](number/max_and_min.ipynb)
 * [최솟값 만들기](number/make_min_num.ipynb)
 * [피보나치 수열](number/fibonacci_number.ipynb)
+
+## Coding test
+
+* KAKAO BLIND RECRUITMENT
+
+    * 2020
+
+        * [괄호 변환](coding_test/kakao_blind_recruitment/2020/change_parenthesis.ipynb)
+
+* 카카오 개발자 겨울 인턴십
+
+    * 2019
+
+        * [불량 사용자](coding_test/kakao_intern_test/2019/bad_user.ipynb)
+
+## Others
+
+* [JadenCase 문자열 만들기](others/jadencase_string.ipynb)
