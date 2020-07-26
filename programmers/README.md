@@ -51,6 +51,7 @@ Prgrammers problems
 
     * [여행 경로](algo/bfs_dfs/travel_route.ipynb)
     * [단어 변환](algo/bfs_dfs/word_change.ipynb)
+    * [게임 맵 최단거리](algo/bfs_dfs/shortest_path_in_game_map.ipynb)
 
 ## Number problems
 
