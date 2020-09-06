@@ -46,6 +46,7 @@ Prgrammers problems
     * [N으로 표현](algo/dp/n_representation.ipynb)
     * [거스름돈](algo/dp/change.ipynb)
     * [등굣길](algo/dp/way_to_school.ipynb)
+    * [도둑질](algo/dp/theft.ipynb)
 
 * BFS/DFS
 
