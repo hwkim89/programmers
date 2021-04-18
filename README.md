@@ -1,7 +1,7 @@
-Solutions of programming problems
-=======================================
+Programming Practice
+=====================
 
-## Table of contents
+In this repository, I organized solutions of programming problems from Baekjoon, Programmers, and SW Expert Academy to prepare coding tests in the future.
 
 * [Baekjoon](baekjoon)
 
