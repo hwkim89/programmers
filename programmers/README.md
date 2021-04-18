@@ -66,6 +66,7 @@ There are four categories for Programmers problems:
         * [타겟 넘버](algo/bfs_dfs/target_number.ipynb)
         * [게임 맵 최단거리](algo/bfs_dfs/shortest_path_in_game_map.ipynb)
     * Level 3
+        * [네트워크](algo/bfs_dfs/network_.ipynb)
         * [여행 경로](algo/bfs_dfs/travel_route.ipynb)
         * [단어 변환](algo/bfs_dfs/word_change.ipynb)
         * [등굣길](algo/bfs_dfs/way_to_school.ipynb)
