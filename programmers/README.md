@@ -1,15 +1,27 @@
-Prgrammers problems
+Prgrammers Problems
 =====================
 
-## Data structure problems
+There are four categories for Programmers problems:
+
+- [Data Structure](#data-structure)
+- [Algorithm](#algorithm)
+- [Number](#number)
+- [Others](#others)
+
+## Data Structure
 
 * Stack
 
-	* [올바른 괄호](ds/stack/right_parenthesis.ipynb)
-	* [쇠막대기](ds/stack/iron_pipe.ipynb)
-	* [짝지어 제거하기](ds/stack/pair_removal.ipynb)
-	* [사전순 부분문자열](ds/stack/alphabetical_part_string.ipynb)
-	* [대중소 괄호 짝 맞추기](ds/stack/matching_parenthesis.ipynb)
+    * Level 2
+        * [괄호 변환](coding_test/kakao_blind_recruitment/2020/change_parenthesis.ipynb)
+	    * [올바른 괄호](ds/stack/right_parenthesis.ipynb)
+	    * [짝지어 제거하기](ds/stack/pair_removal.ipynb)
+
+    * Others
+        * [쇠막대기](ds/stack/iron_pipe.ipynb)
+        * [사전순 부분문자열](ds/stack/alphabetical_part_string.ipynb)
+        * [대중소 괄호 짝 맞추기](ds/stack/matching_parenthesis.ipynb)
+
 
 * Heap
 
@@ -23,7 +35,7 @@ Prgrammers problems
 
     * [가장 먼 노드](ds/graph/furthest_node.ipynb)
 
-## Algorithm problems
+## Algorithm
 
 * Sort
 
@@ -50,12 +62,21 @@ Prgrammers problems
 
 * BFS/DFS
 
-    * [여행 경로](algo/bfs_dfs/travel_route.ipynb)
-    * [단어 변환](algo/bfs_dfs/word_change.ipynb)
-    * [게임 맵 최단거리](algo/bfs_dfs/shortest_path_in_game_map.ipynb)
-    * [등굣길](algo/bfs_dfs/way_to_school.ipynb)
+    * Level 2
+        * [타겟 넘버](algo/bfs_dfs/target_number.ipynb)
+        * [게임 맵 최단거리](algo/bfs_dfs/shortest_path_in_game_map.ipynb)
+    * Level 3
+        * [여행 경로](algo/bfs_dfs/travel_route.ipynb)
+        * [단어 변환](algo/bfs_dfs/word_change.ipynb)
+        * [등굣길](algo/bfs_dfs/way_to_school.ipynb)
 
-## Number problems
+* Regular Expression
+
+    * Level 3
+
+        * [불량 사용자](coding_test/kakao_intern_test/2019/bad_user.ipynb)
+
+## Number
 
 * [다음 큰 숫자](number/next_bigger_number.ipynb)
 * [숫자의 표현](number/representation_of_number.ipynb)
@@ -63,19 +84,6 @@ Prgrammers problems
 * [최솟값 만들기](number/make_min_num.ipynb)
 * [피보나치 수열](number/fibonacci_number.ipynb)
 
-## Coding test
-
-* KAKAO BLIND RECRUITMENT
-
-    * 2020
-
-        * [괄호 변환](coding_test/kakao_blind_recruitment/2020/change_parenthesis.ipynb)
-
-* 카카오 개발자 겨울 인턴십
-
-    * 2019
-
-        * [불량 사용자](coding_test/kakao_intern_test/2019/bad_user.ipynb)
 
 ## Others
 
