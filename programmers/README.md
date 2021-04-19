@@ -39,7 +39,10 @@ There are four categories for Programmers problems:
 
 * Sort
 
-    * [가장 큰 수](algo/sort/the_biggest_number.ipynb)
+    * Level 2
+
+        * [가장 큰 수](algo/sort/the_biggest_number.ipynb)
+        * [H-Index](algo/sort/h-index.ipynb)
 
 * Search
 
@@ -64,17 +67,25 @@ There are four categories for Programmers problems:
 
 * Dynamic programming
 
-    * [N으로 표현](algo/dp/n_representation.ipynb)
-    * [거스름돈](algo/dp/change.ipynb)
-    * [등굣길](algo/dp/way_to_school.ipynb)
-    * [도둑질](algo/dp/theft.ipynb)
+    * Level 3
+
+        * [N으로 표현](algo/dp/n_representation.ipynb)
+        * [거스름돈](algo/dp/change.ipynb)
+        * [등굣길](algo/dp/way_to_school.ipynb)
+    
+    * Level 4
+        
+        * [도둑질](algo/dp/theft.ipynb)
 
 * BFS/DFS
 
     * Level 2
+
         * [타겟 넘버](algo/bfs_dfs/target_number.ipynb)
         * [게임 맵 최단거리](algo/bfs_dfs/shortest_path_in_game_map.ipynb)
+
     * Level 3
+
         * [네트워크](algo/bfs_dfs/network.ipynb)
         * [여행 경로](algo/bfs_dfs/travel_route.ipynb)
         * [단어 변환](algo/bfs_dfs/word_change.ipynb)
