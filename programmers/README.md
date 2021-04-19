@@ -49,9 +49,18 @@ There are four categories for Programmers problems:
 
 * Greedy
 
-    * [체육복](algo/greedy/gym_suit.ipynb)
-    * [큰 수 만들기](algo/greedy/creating_big_number.ipynb)
-    * [단속 카메라](algo/greedy/speed_camera.ipynb)
+    * Level 1
+        
+        * [체육복](algo/greedy/gym_suit.ipynb)
+
+    * Level 2
+        
+        * [큰 수 만들기](algo/greedy/creating_big_number.ipynb)
+        * [구명보트](algo/greedy/lifeboat.ipynb)
+
+    * Level 3
+        
+        * [단속 카메라](algo/greedy/speed_camera.ipynb)
 
 * Dynamic programming
 
@@ -66,7 +75,7 @@ There are four categories for Programmers problems:
         * [타겟 넘버](algo/bfs_dfs/target_number.ipynb)
         * [게임 맵 최단거리](algo/bfs_dfs/shortest_path_in_game_map.ipynb)
     * Level 3
-        * [네트워크](algo/bfs_dfs/network_.ipynb)
+        * [네트워크](algo/bfs_dfs/network.ipynb)
         * [여행 경로](algo/bfs_dfs/travel_route.ipynb)
         * [단어 변환](algo/bfs_dfs/word_change.ipynb)
         * [등굣길](algo/bfs_dfs/way_to_school.ipynb)
