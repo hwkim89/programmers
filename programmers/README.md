@@ -33,7 +33,10 @@ There are four categories for Programmers problems:
 
 * Graph
 
-    * [가장 먼 노드](ds/graph/furthest_node.ipynb)
+    * Level 3
+
+        * [가장 먼 노드](ds/graph/furthest_node.ipynb)
+        * [순위](ds/graph/rank.ipynb)
 
 ## Algorithm
 
