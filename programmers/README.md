@@ -48,7 +48,27 @@ There are four categories for Programmers problems:
 
     * Binary search
 
-        * [징검다리](algo/search/binary_search/stepping_stone.ipynb)
+        * Level 3
+
+            * [입국심사](algo/search/binary_search/immigration.ipynb)
+
+        * Level 4
+
+            * [징검다리](algo/search/binary_search/stepping_stone.ipynb)
+
+    * Graph Search: BFS/DFS
+
+        * Level 2
+
+            * [타겟 넘버](algo/search/bfs_dfs/target_number.ipynb)
+            * [게임 맵 최단거리](algo/search/bfs_dfs/shortest_path_in_game_map.ipynb)
+
+        * Level 3
+
+            * [네트워크](algo/search/bfs_dfs/network.ipynb)
+            * [여행 경로](algo/search/bfs_dfs/travel_route.ipynb)
+            * [단어 변환](algo/search/bfs_dfs/word_change.ipynb)
+            * [등굣길](algo/search/bfs_dfs/way_to_school.ipynb)
 
 * Greedy
 
@@ -76,20 +96,6 @@ There are four categories for Programmers problems:
     * Level 4
         
         * [도둑질](algo/dp/theft.ipynb)
-
-* BFS/DFS
-
-    * Level 2
-
-        * [타겟 넘버](algo/bfs_dfs/target_number.ipynb)
-        * [게임 맵 최단거리](algo/bfs_dfs/shortest_path_in_game_map.ipynb)
-
-    * Level 3
-
-        * [네트워크](algo/bfs_dfs/network.ipynb)
-        * [여행 경로](algo/bfs_dfs/travel_route.ipynb)
-        * [단어 변환](algo/bfs_dfs/word_change.ipynb)
-        * [등굣길](algo/bfs_dfs/way_to_school.ipynb)
 
 * Regular Expression
 
