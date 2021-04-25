@@ -25,7 +25,13 @@ There are four categories for Programmers problems:
 
 * Heap
 
-    * [더 맵게](ds/heap/more_spicy.ipynb)
+    * Level 2
+        
+        * [더 맵게](ds/heap/more_spicy.ipynb)
+
+    * Level 3
+
+        * [디스크 컨트롤러](ds/heap/disk_controller.ipynb)
 
 * Hash
 
