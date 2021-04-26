@@ -31,7 +31,7 @@ There are four categories for Programmers problems:
 
 | Type | Subtype | Level | Problem | Check |
 |:-:|:-:|:-:|:-:|:-:|
-| Sort | - | 2 | [가장 큰 수](algo/sort/the_biggest_number.ipynb) |  |
+| Sort | - | 2 | [가장 큰 수](algo/sort/the_biggest_number.ipynb) | ✅ |
 | Sort | - | 2 | [H-Index](algo/sort/h-index.ipynb) | ✅ |
 | Search | Brute Force | 2 | [카펫](algo/search/brute_force/carpet.ipynb) | ✅ |
 | Search | Binary Search | 3 | [입국심사](algo/search/binary_search/immigration.ipynb) | ✅ |
