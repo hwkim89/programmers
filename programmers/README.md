@@ -17,6 +17,7 @@ There are four categories for Programmers problems:
 | Stack | ? | [쇠막대기](ds/stack/iron_pipe.ipynb) |  |
 | Stack | ? | [사전순 부분문자열](ds/stack/alphabetical_part_string.ipynb) |  |
 | Stack | ? | [대중소 괄호 짝 맞추기](ds/stack/matching_parenthesis.ipynb) |  |
+| Stack | 2 | [주식가격](ds/stack/stock_price.ipynb) | ✅ |
 | Queue | 2 | [프린터](ds/queue/printer.ipynb) | ✅ |
 | Heap | 2 | [더 맵게](ds/heap/more_spicy.ipynb) |  |
 | Heap | 3 | [디스크 컨트롤러](ds/heap/disk_controller.ipynb) | ✅ |
