@@ -5,13 +5,13 @@ There are four categories for Programmers problems:
 
 - [Data Structure](#data-structure)
 - [Algorithm](#algorithm)
+- [Test](#test)
 - [Others](#others)
 
 ## Data Structure
 
 | Type | Level | Problem | Check |
 |:-:|:-:|:-:|:-:|
-| Stack | 2 | [괄호 변환](coding_test/kakao_blind_recruitment/2020/change_parenthesis.ipynb) |  |
 | Stack | 2 | [올바른 괄호](ds/stack/right_parenthesis.ipynb) |  |
 | Stack | 2 | [짝지어 제거하기](ds/stack/pair_removal.ipynb) |  |
 | Stack | ? | [쇠막대기](ds/stack/iron_pipe.ipynb) |  |
@@ -50,8 +50,13 @@ There are four categories for Programmers problems:
 | Dynamic Programming | - | 3 | [거스름돈](algo/dp/change.ipynb) |  |
 | Dynamic Programming | - | 3 | [등굣길](algo/dp/way_to_school.ipynb) | ✅ |
 | Dynamic Programming | - | 4 | [도둑질](algo/dp/theft.ipynb) |  |
-| Regular Expression | - | 3 | [불량 사용자](coding_test/kakao_intern_test/2019/bad_user.ipynb) |  |
 
+## Test
+
+| Name | Type | Level | Problem | Check |
+|:-:|:-:|:-:|:-:|:-:|
+| 2020 KAKAO BLIND RECRUITMENT | Stack | 2 | [괄호 변환](test/kakao_blind/2020/change_parenthesis.ipynb) | ✅ |
+| 2019 카카오 개발자 겨울 인턴십 | Regular Expression | 3 | [불량 사용자](test/kakao_intern/2019/winter/bad_user.ipynb) |  |
 
 ## Others
 
