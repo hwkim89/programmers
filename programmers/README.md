@@ -42,7 +42,7 @@ There are four categories for Programmers problems:
 | Search | BFS/DFS | 3 | [여행 경로](algo/search/bfs_dfs/travel_route.ipynb) |  |
 | Search | BFS/DFS | 3 | [단어 변환](algo/search/bfs_dfs/word_change.ipynb) |  |
 | Search | BFS/DFS | 3 | [등굣길](algo/search/bfs_dfs/way_to_school.ipynb) |  |
-| Greedy | - | 1 | [체육복](algo/greedy/gym_suit.ipynb) |  |
+| Greedy | - | 1 | [체육복](algo/greedy/gym_suit.ipynb) | ✅ |
 | Greedy | - | 2 | [큰 수 만들기](algo/greedy/creating_big_number.ipynb) |  |
 | Greedy | - | 2 | [구명보트](algo/greedy/lifeboat.ipynb) | ✅ |
 | Greedy | - | 3 | [단속 카메라](algo/greedy/speed_camera.ipynb) |  |
