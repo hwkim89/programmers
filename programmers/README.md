@@ -46,8 +46,9 @@ There are four categories for Programmers problems:
 | Greedy | - | 2 | [큰 수 만들기](algo/greedy/creating_big_number.ipynb) |  |
 | Greedy | - | 2 | [구명보트](algo/greedy/lifeboat.ipynb) | ✅ |
 | Greedy | - | 3 | [단속 카메라](algo/greedy/speed_camera.ipynb) |  |
-| Dynamic Programming | - | 3 | [N으로 표현](algo/dp/n_representation.ipynb) |  |
 | Dynamic Programming | - | 3 | [거스름돈](algo/dp/change.ipynb) |  |
+| Dynamic Programming | - | 3 | [N으로 표현](algo/dp/n_representation.ipynb) |  |
+| Dynamic Programming | - | 3 | [정수 삼각형](algo/dp/integer_triangle.ipynb) | ✅ |
 | Dynamic Programming | - | 3 | [등굣길](algo/dp/way_to_school.ipynb) | ✅ |
 | Dynamic Programming | - | 4 | [도둑질](algo/dp/theft.ipynb) |  |
 
