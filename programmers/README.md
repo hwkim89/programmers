@@ -23,7 +23,7 @@ There are four categories for Programmers problems:
 | Heap | 3 | [디스크 컨트롤러](ds/heap/disk_controller.ipynb) | ✅ |
 | Hash | 1 | [완주하지 못한 선수](ds/hash/incomplete_player.ipynb) |  |
 | Hash | 3 | [베스트앨범](ds/hash/best_album.ipynb) | ✅ |
-| Graph | 3 | [가장 먼 노드](ds/graph/furthest_node.ipynb) |  |
+| Graph | 3 | [가장 먼 노드](ds/graph/furthest_node.ipynb) | ✅ |
 | Graph | 3 | [순위](ds/graph/rank.ipynb) | ✅ |
 
 
