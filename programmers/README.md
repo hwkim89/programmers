@@ -58,6 +58,7 @@ There are four categories for Programmers problems:
 | 2021 KAKAO BLIND RECRUITMENT | Stack | 2 | [합승 택시 요금](test/kakao_blind/2021/cost_of_shared_taxi.ipynb) | ✅ |
 | 2020 KAKAO BLIND RECRUITMENT | Stack | 2 | [괄호 변환](test/kakao_blind/2020/change_parenthesis.ipynb) | ✅ |
 | 2019 카카오 개발자 겨울 인턴십 | Regular Expression | 3 | [불량 사용자](test/kakao_intern/2019/winter/bad_user.ipynb) |  |
+| Summer/Winter Coding (2019) | SQL | 4 | [우유와 요거트가 담긴 장바구니](test/summer-winter_coding/2019/basket_with_milk_and_yogurt.ipynb) | ✅ |
 | 찾아라 프로그래밍 마에스터 | Search > BFS/DFS | 2 | [게임 맵 최단거리](algo/search/bfs_dfs/shortest_path_in_game_map.ipynb) | ✅ |
 
 ## Others
